@@ -1,0 +1,26 @@
+body {
+    background-color: goldenrod;
+}
+
+p {
+    color: blue;
+    text-align: center;
+    align-items: auto;
+    font-size: 30px;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+
+.BMCC {
+    width: auto;
+    max-width: 100%;
+    align-items: center;
+}
+
+h1 {
+    text-align: left;
+    margin-left: 50px;
+}
+
+h2 {
+    color: red;
+}
